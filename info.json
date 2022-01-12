@@ -1,13 +1,30 @@
 {
   "title": "Welcome to Us!",
   "rPhone": "702-505-1040",
-  "rName": "Your Restarant Name",
+  "rName": "Restarant Name",
   "rEmail": "fanse2@gmail.com",
   "rAddr1": "3400 S. Jones Blvd.",
   "rAddr2": "Las Vegas NV 89146",
+  "youtube": "",
+  "main_bg": "assets/img/hero-bg.jpg",
+  "about_bg": "assets/img/about-bg.jpg",
+  "about_pic": "assets/img/about.jpg",
+  "menu_title": "Check Our Tasty Menu",
+  "gallery_title": "Some photos from Our Restaurant!",
+  "contact_title": "Contact Us!",
   "hour": {
     "Mon-Thr": "11AM - 10PM",
     "Fri-Sat": "11AM - 12AM",
     "Sun Day": "Closed"
-  }
+  },
+  "gall": [
+    "gallery-1.jpg",
+    "gallery-2.jpg",
+    "gallery-3.jpg",
+    "gallery-4.jpg",
+    "gallery-5.jpg",
+    "gallery-6.jpg",
+    "gallery-7.jpg",
+    "gallery-8.jpg"
+  ]
 }
