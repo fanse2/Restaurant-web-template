@@ -1,0 +1,13 @@
+{
+  "title": "Welcome to Us!",
+  "rPhone": "702-505-1040",
+  "rName": "Your Restarant Name",
+  "rEmail": "fanse2@gmail.com",
+  "rAddr1": "3400 S. Jones Blvd.",
+  "rAddr2": "Las Vegas NV 89146",
+  "hour": {
+    "Mon-Thr": "11AM - 10PM",
+    "Fri-Sat": "11AM - 12AM",
+    "Sun Day": "Closed"
+  }
+}
