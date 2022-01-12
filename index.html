@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko" ng-app="myApp" ng-controller="myCtrl">
+<html lang="en" ng-app="myApp" ng-controller="myCtrl">
   <head>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
@@ -567,13 +567,9 @@
                 <a
                   class="gallery-lightbox"
                   data-gall="gallery-item"
-                  ng-href="assets/img/gallery/{{pic}}"
+                  href="{{pic}}"
                 >
-                  <img
-                    ng-src="assets/img/gallery/{{pic}}"
-                    alt=""
-                    class="img-fluid"
-                  />
+                  <img ng-src="{{pic}}" alt="" class="img-fluid" />
                 </a>
               </div>
             </div>
