@@ -5,13 +5,19 @@
   "rEmail": "fanse2@gmail.com",
   "rAddr1": "3400 S. Jones Blvd.",
   "rAddr2": "Las Vegas NV 89146",
-  "youtube": "",
+  "youtube": "https://youtu.be/JzC3nVzXUSc",
   "main_bg": "assets/img/hero-bg.jpg",
   "about_bg": "assets/img/about-bg.jpg",
   "about_pic": "assets/img/about.jpg",
   "menu_title": "Check Our Tasty Menu",
   "gallery_title": "Some photos from Our Restaurant!",
   "contact_title": "Contact Us!",
+  "second_line": "(second line here!) We delever!",
+  "twitter": "https://twitter.com/",
+  "facebook": "https://www.facebook.com/",
+  "instagram": "",
+  "google-plus": "",
+  "linkedin": "",
   "hour": {
     "Mon-Thr": "11AM - 10PM",
     "Fri-Sat": "11AM - 12AM",
@@ -26,5 +32,78 @@
     "assets/img/gallery/gallery-6.jpg",
     "assets/img/gallery/gallery-7.jpg",
     "assets/img/gallery/gallery-8.jpg"
+  ],
+  "m_type": ["starters", "salads", "specialty"],
+  "menu": [
+    {
+      "name": "Lobster Bisque",
+      "img": "assets/img/menu/lobster-bisque.jpg",
+      "price": "5.95",
+      "ingre": "Lorem, deren, trataro, filede, nerada",
+      "m_type": "starters"
+    },
+    {
+      "name": "Crab Cake",
+      "img": "assets/img/menu/cake.jpg",
+      "price": "7.95",
+      "ingre": "A delicate crab cake served on a toasted roll with lettuce and tartar sauce",
+      "m_type": "starters"
+    },
+    {
+      "name": "Caesar Selections",
+      "img": "assets/img/menu/caesar.jpg",
+      "price": "8.95",
+      "ingre": "Lorem, deren, trataro, filede, nerada",
+      "m_type": "salads"
+    },
+    {
+      "name": "Tuscan Grilled",
+      "img": "assets/img/menu/tuscan-grilled.jpg",
+      "price": "9.95",
+      "ingre": "Grilled chicken with provolone, artichoke hearts, and roasted red pesto",
+      "m_type": "specialty"
+    },
+    {
+      "name": "Crab Cake",
+      "img": "assets/img/menu/cake.jpg",
+      "price": "7.95",
+      "ingre": "A delicate crab cake served on a toasted roll with lettuce and tartar sauce",
+      "m_type": "starters"
+    },
+    {
+      "name": "Caesar Selections",
+      "img": "assets/img/menu/caesar.jpg",
+      "price": "8.95",
+      "ingre": "Lorem, deren, trataro, filede, nerada",
+      "m_type": "salads"
+    },
+    {
+      "name": "Tuscan Grilled",
+      "img": "assets/img/menu/tuscan-grilled.jpg",
+      "price": "9.95",
+      "ingre": "Grilled chicken with provolone, artichoke hearts, and roasted red pesto",
+      "m_type": "specialty"
+    },
+    {
+      "name": "Crab Cake",
+      "img": "assets/img/menu/cake.jpg",
+      "price": "7.95",
+      "ingre": "A delicate crab cake served on a toasted roll with lettuce and tartar sauce",
+      "m_type": "starters"
+    },
+    {
+      "name": "Caesar Selections",
+      "img": "assets/img/menu/caesar.jpg",
+      "price": "8.95",
+      "ingre": "Lorem, deren, trataro, filede, nerada",
+      "m_type": "salads"
+    },
+    {
+      "name": "Tuscan Grilled",
+      "img": "assets/img/menu/tuscan-grilled.jpg",
+      "price": "9.95",
+      "ingre": "Grilled chicken with provolone, artichoke hearts, and roasted red pesto",
+      "m_type": "specialty"
+    }
   ]
 }
